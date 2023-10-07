@@ -55,7 +55,3 @@ Predicted weather conditions:
 ### Contributing
 
 We welcome contributions to this project. Please feel free to open an issue or pull request if you have any suggestions or bug fixes.
-
-### License
-
-This project is licensed under the MIT License.
